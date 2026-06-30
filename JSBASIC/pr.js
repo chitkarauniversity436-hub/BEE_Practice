@@ -2,7 +2,7 @@ function greet(){
     console.log("Stay hard MF") ;
 }
 
-// greet();
+greet();
 
 //arrow function
 
