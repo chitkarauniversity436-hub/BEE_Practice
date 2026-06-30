@@ -5,8 +5,7 @@
 // greet();
 
 //arrow function
+
 const k=()=>{
     console.log("hi");
 }
-
-k();
